@@ -31,6 +31,10 @@
     "full": {
       "$type": "dimension",
       "$value": "9999px"
+    },
+    "media": {
+      "$type": "dimension",
+      "$value": "10%"
     }
   }
 }
