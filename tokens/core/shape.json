@@ -36,5 +36,19 @@
       "$type": "dimension",
       "$value": "10%"
     }
+  },
+  "stroke": {
+    "divider": {
+      "$type": "dimension",
+      "$value": "1px"
+    },
+    "border": {
+      "$type": "dimension",
+      "$value": "0.0625rem"
+    },
+    "feedback": {
+      "$type": "dimension",
+      "$value": "0.125rem"
+    }
   }
 }
