@@ -3,10 +3,18 @@
     "white": {
       "$type": "color",
       "$value": "#fff"
+      "a60": {
+        "$type": "color",
+        "$value": "#fffff99"
+      }
     },
     "black": {
       "$type": "color",
       "$value": "#000"
+      "a60": {
+        "$type": "color",
+        "$value": "#00000099"
+      }
     },
     "gray": {
       "25": {
