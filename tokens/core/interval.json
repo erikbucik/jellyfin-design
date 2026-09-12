@@ -1,0 +1,44 @@
+{
+  "interval": {
+    "$type": "number",
+    "unison": {
+      "$value": "1"
+    },
+    "minor-second": {
+      "$value": "1.06667"
+    },
+    "major-second": {
+      "$value": "1.125"
+    },
+    "minor-third": {
+      "$value": "1.2"
+    },
+    "major-third": {
+      "$value": "1.25"
+    },
+    "perfect-fourth": {
+      "$value": "1.33333"
+    },
+    "tritone": {
+      "$value": "1.40625"
+    },
+    "perfect-fifth": {
+      "$value": "1.5"
+    },
+    "minor-sixth": {
+      "$value": "1.6"
+    },
+    "major-sixth": {
+      "$value": "1.66667"
+    },
+    "minor-seventh": {
+      "$value": "1.8"
+    },
+    "major-seventh": {
+      "$value": "1.875"
+    },
+    "octave": {
+      "$value": "2"
+    }
+  }
+}
