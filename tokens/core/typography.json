@@ -3,7 +3,7 @@
     "font": {
       "$type": "fontFamily",
       "brand": {
-        "$value": "Figtree, Aerial, sans-serif"
+        "$value": "Figtree, Arial, sans-serif"
       },
       "heading": {
         "$value": "Figtree, Helvetica, sans-serif"
