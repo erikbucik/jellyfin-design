@@ -3,16 +3,9 @@
     "$type": "color",
     "white": {
       "$value": "#fff"
-      "a60": {
-        "$type": "color",
-        "$value": "#99fffff"
-      }
     },
     "black": {
       "$value": "#000"
-      "a60": {
-        "$value": "#99000000"
-      }
     },
     "gray": {
       "025": {
@@ -499,4 +492,5 @@
       }
     }
   }
+// list alpha presets
 }
