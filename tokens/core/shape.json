@@ -2,43 +2,43 @@
   "radius": {
     "$type": "dimension",
     "none": {
-      "$value": "0"
-    },
-    "full": {
-      "$value": "100%"
+      "$value": "0px"
     },
     "2xs": {
-      "$value": "0.125rem"
+      "$value": "2px"
     },
     "xs": {
-      "$value": "0.25rem"
+      "$value": "4px"
     },
     "sm": {
-      "$value": "0.375rem"
+      "$value": "6px"
     },
     "md": {
-      "$value": "0.5rem"
+      "$value": "8px"
     },
     "lg": {
-      "$value": "0.75rem"
+      "$value": "12px"
     },
     "xl": {
-      "$value": "1.5rem"
+      "$value": "24px"
     },
     "responsive": {
       "$value": "10%"
+    },
+    "full": {
+      "$value": "100%"
     }
   },
   "border": {
     "$type": "dimension",
     "divider": {
-      "$value": "1px"
+      "$value": "0.5px"
     },
     "outline": {
-      "$value": "0.0625rem"
+      "$value": "1px"
     },
     "highlight": {
-      "$value": "0.125rem"
+      "$value": "2px"
     }
   }
 }
