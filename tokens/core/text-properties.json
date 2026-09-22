@@ -1,0 +1,96 @@
+{
+  "text": {
+    "font": {
+      "$type": "fontFamily",
+      "brand|sans-display": {
+        "$value": ["Figtree", "Arial", "sans-serif"]
+      },
+      "sans|modern|practical": {
+        "$value": ["Inter Variable", "Helvetica", "sans-serif"]
+      },
+      "serif|bookish": {
+        "$value": ["Source Serif 4 Variable", "Georgia", "serif"]
+      },
+      "|serif-display": {
+        "$value": ["Playfair Display", "Times New Roman", "serif"]
+      },
+      "mono|code": {
+        "$value": ["Adwaita Mono", "monospace"]
+      }
+    },
+    "weight": {
+      "$type": "fontWeight",
+      "light": {
+        "$value": 375
+      },
+      "default": {
+        "$value": 450
+      },
+      "strong": {
+        "$value": 600
+      },
+      "thick": {
+        "$value": 700
+      }
+    },
+    "size": {
+      "$type": "dimension",
+      "tiny": {
+        "$value": "0.625rem"
+      },
+      "small-3": {
+        "$value": "0.66667rem"
+      },
+      "small-2": {
+        "$value": "0.75rem"
+      },
+      "small-1": {
+        "$value": "0.83333rem"
+      },
+      "large-1": {
+        "$value": "0.9375rem"
+      },
+      "large-2": {
+        "$value": "1rem"
+      },
+      "large-3": {
+        "$value": "1.125rem"
+      },
+      "extra-large-1": {
+        "$value": "1.25rem"
+      },
+      "extra-large-2": {
+        "$value": "1.33333rem"
+      },
+      "extra-large-3": {
+        "$value": "1.5rem"
+      },
+      "huge": {
+        "$value": "2rem"
+      }
+    },
+    "line-height": {
+      "dense-3": {
+        "$value": "{interval.major-second}"
+      },
+      "dense-2": {
+        "$value": "{interval.minor-third}"
+      },
+      "dense-1": {
+        "$value": "{interval.major-third}"
+      },
+      "roomy-1": {
+        "$value": "{interval.perfect-fourth}"
+      },
+      "roomy-2": {
+        "$value": "{interval.tritone}"
+      },
+      "roomy-3": {
+        "$value": "{interval.perfect-fifth}"
+      }
+    },
+    "leadding": {
+      "$description": textbox paddings for better text flow when combining multiple sizes
+    }
+  }
+}
